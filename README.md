@@ -1,6 +1,8 @@
 # Speech Recognition Tutorial
    
-한국어 음성 인식 프로젝트인 [KoSpeech](https://github.com/sooftware/KoSpeech) 프로젝트를 진행하며 팀원들끼리 스터디한 내용들을 공개한 repository입니다.    
+한국어 음성 인식 프로젝트인 [KoSpeech](https://github.com/sooftware/KoSpeech) 프로젝트를 진행하며 팀원들끼리 스터디한 내용들을 공개한 repository입니다.     
+부족한 점이 많은 학부생들끼리 공부한 내용이니 잘못 이해한 부분이 있을 수 있습니다.  
+오류사항, 피드백 등 모두 환영합니다.
   
 ## Seminar
   
